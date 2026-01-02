@@ -16,6 +16,25 @@ The primary goal was to rapidly prototype and validate three advanced sensitivit
 
 These features allow investors to understand how changes in key assumptions affect investment outcomes over 10, 20, and 40-year time horizons.
 
+### Scenarios (Base / Optimistic / Pessimistic / Custom)
+
+<div align="center">
+   <img src="./docs/images/scenarios.png" alt="Chrono Weave">
+   <img src="./docs/images/projection-charts.png" alt="Chrono Weave">
+</div>
+
+### Tornado Chart
+
+<div align="center">
+   <img src="./docs/images/tornado-chart.png" alt="Chrono Weave">
+</div>
+
+### Heatmap Chart
+
+<div align="center">
+   <img src="./docs/images/heatmap-chart.png" alt="Chrono Weave">
+</div>
+
 ## Technology Stack
 
 - **React 18.3** with TypeScript 5.6
